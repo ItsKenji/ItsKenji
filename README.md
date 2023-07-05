@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsKenji
-- 👀 I’m interested in ** _coding_**
+- 👀 I’m interested in** _coding_**
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on website projects 
 - 📫 How to reach me kazekenji0@gmail.com
